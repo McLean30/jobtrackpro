@@ -1,0 +1,13 @@
+Email,First Name,Last Name,Status,Last Order,Phone,Region
+emma.wright@example.com,Emma,Wright,repeat,2024-03-12,07700 900101,London
+oliver.jones@example.com,Oliver,Jones,lapsed,2022-07-01,07700 900102,Manchester
+AVA.SMITH@example.com,Ava,Smith,one-off,2023-11-23,,Bristol
+ava.smith@example.com,Ava,Smith,one-off,2023-11-23,,Bristol
+george.hughes@example.com,George,Hughes,repeat,01/02/2024,07700 900104,Leeds
+not-a-real-email,Freya,Clarke,lapsed,2021-05-09,07700 900105,Cardiff
+,Henry,Morgan,repeat,2024-01-30,07700 900106,Glasgow
+isla.bennett@example.com,Isla,Bennett,former,2020-12-15,,Newcastle
+jack.turner@example.com,Jack,Turner,repeat,2024-06-18,07700 900108,Sheffield
+lily.evans@example.com,Lily,Evans,one-off,09/09/2023,07700 900109,Nottingham
+thomas.reid@example.com,Thomas,Reid,lapsed,2019-08-21,,Liverpool
+sophia.khan@example.com,Sophia,Khan,repeat,2024-04-02,07700 900111,Birmingham
